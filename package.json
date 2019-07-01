@@ -1,0 +1,24 @@
+{
+  "name": "GCP-PubSub-to-Firebase-RealTime-Database-with-NodeJS",
+  "version": "1.0.0",
+  "description": "GCP-PubSub-to-Firebase-RealTime-Database-with-NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhtkarakose/GCP-PubSub-to-Firebase-RealTime-Database-with-NodeJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mhtkarakose/GCP-PubSub-to-Firebase-RealTime-Database-with-NodeJS/issues"
+  },
+  "homepage": "https://github.com/mhtkarakose/GCP-PubSub-to-Firebase-RealTime-Database-with-NodeJS#readme",
+  "dependencies": {
+    "@google-cloud/pubsub": "^0.30.1",
+    "firebase": "^6.2.4"
+  }
+}
